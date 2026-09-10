@@ -1,0 +1,23 @@
+# Credenciales -- NUNCA subir esto a un repo público
+# (config.py en sí es seguro: solo lee os.getenv(), no tiene claves
+# hardcodeadas. Lo que sí hay que excluir es cualquier archivo que
+# contenga las claves REALES, si usas uno)
+.env
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+venv/
+.venv/
+
+# Salidas de datos locales (pueden pesar mucho, no aportan al repo)
+*.csv
+*.log
+
+# Sistema
+.DS_Store
