@@ -46,8 +46,8 @@ Este diario es, literalmente, esa idea puesta en práctica: no otra estrategia d
 
 ### Lo que queda por delante
 
-El terreno técnico, tanto en cripto como en mercados tradicionales, sigue mostrando el mismo patrón una y otra vez: señales que parecen prometedoras al agregado, y se diluyen o invierten al mirarlas con el detalle que exige un test honesto. El funding carry sigue siendo, con diferencia, el resultado más sólido de todo el proyecto. Y quedan hilos por tirar que todavía no hemos agotado — velas japonesas con confirmación de volumen, PEAD, el Índice Arms, compras de insiders — cada uno con su propia lógica, y cada uno sometido a la misma pregunta de siempre: ¿esto sobrevive, o es otro espejismo?
+El terreno técnico, tanto en cripto como en mercados tradicionales, sigue mostrando el mismo patrón una y otra vez: señales que parecen prometedoras al agregado, y se diluyen o invierten al mirarlas con el detalle que exige un test honesto. El funding carry sigue siendo, con diferencia, el resultado más sólido de todo el proyecto. Y quedan hilos por tirar que todavía no hemos agotado.
 
 ---
 
-*Continuará.*
+*En el próximo capítulo: lo que empezó como una comprobación más de por qué se apagó la continuación tras un shock termina llevándonos a un patrón de velas japonesas que contradice la sabiduría popular del trading retail — y que, a diferencia de casi todo lo anterior, sobrevive corrección por búsqueda múltiple, treinta y tres años de estabilidad, y costes reales.*
